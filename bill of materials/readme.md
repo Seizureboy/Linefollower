@@ -3,7 +3,7 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|--------------|------|---------|
-|         1|  batterijen  |  18650 7.4V - 1.3A          |  nieuw         |   6,99           |  2    |    13,98     |
+|         1|  Batterijen  |  18650 7.4V - 1.3A          |  nieuw         |   6,99           |  2    |    13,98     |
 |         2|  Motoren  |  Micro metal gearmotor HPCB 6V          |  nieuw         |       8,30       |   2   |  16,60      |
 |         3|  H-Brug  |   DRV8833         |     nieuw      |              |  1    |     7,99    |
 |         4|   Sensoren |  QTR-8A          |    nieuw       |              |  1    |     12,00    |
